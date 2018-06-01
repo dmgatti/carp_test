@@ -1,7 +1,7 @@
 ---
 title: "Introduction to R"
-teaching: 10 minutes
-exercises: 10 minutes
+teaching: 10
+exercises: 10
 questions:
 - "What is R?"
 - "What is R used for?"
