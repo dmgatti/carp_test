@@ -15,7 +15,7 @@ and have a look at the [more detailed guidelines][lesson-example] on proper form
 
 ## Maintainer(s)
 
-* FIXME
+Daniel Gatti dmgatti@coa.edu
 
 ## Authors
 
