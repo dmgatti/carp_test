@@ -1,6 +1,6 @@
-# FIXME Lesson title
+# Carpentry Lesson Test
 
-FIXME
+FIXME, yeah, I know.
 
 ## Contributing
 
