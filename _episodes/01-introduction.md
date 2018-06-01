@@ -19,4 +19,18 @@ And the lesson text goes here...
 - banana
 - orange
 
+Numbered lists:
+
+1. one
+1. two
+1. and three!
+
+Nested lists:
+
+- top level
+  - next level
+    - and next level
+  - second level
+    - third level
+
 {% include links.md %}
