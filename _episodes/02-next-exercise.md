@@ -38,3 +38,18 @@ Exercise
 > > - solution
 > {: .solution}
 {: .challenge}
+
+> ## Exercise with R code
+> 
+> List the elements of an exercise. 
+> 
+> > ## Solution
+> > 
+> > Exercises are place inside of blocks that start with `>`. The solution is placed in a sub-box that starts with `> >`.
+> > 
+> > ```{r}
+> > y = matrix(1:9, 3, 3)
+> > head(y)
+> > ```
+> {: .solution}
+{: .challenge}
