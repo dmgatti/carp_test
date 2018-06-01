@@ -15,7 +15,7 @@ keypoints:
 
 And the lesson text goes here...
 
-*bold* and **italic** text.
+**bold** and *italic* text.
 
 Unordered list:
 
