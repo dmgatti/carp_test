@@ -4,4 +4,5 @@ layout: reference
 
 ## Glossary
 
-FIXME
+R: Programming language for statistics.
+
