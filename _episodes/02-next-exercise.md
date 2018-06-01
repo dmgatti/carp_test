@@ -10,6 +10,17 @@ keypoints:
 - "Add an exercise using a block."
 ---
 
+Next, an R code block.
+
+---
+n = 100
+m = 10
+x = matrix(rnorm(n * m), n, m)
+head(x)
+---
+{: .language-r}
+
+
 Introductory text....
 
 Exercise
