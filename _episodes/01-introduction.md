@@ -15,6 +15,10 @@ keypoints:
 
 And the lesson text goes here...
 
+*bold* and **italic** text.
+
+Unordered list:
+
 - apple
 - banana
 - orange
